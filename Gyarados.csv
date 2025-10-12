@@ -3,3 +3,7 @@ how_to_submit, A
 rule110,A
 vector, B
 vector, A
+rule110, A
+functional, C
+functional, B
+functional, A
