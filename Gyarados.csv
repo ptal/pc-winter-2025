@@ -1,10 +1,10 @@
 lab, status
 how_to_submit, A
-rule110,A
+rule110, A
 vector, B
 vector, A
-rule110, A
 functional, C
 functional, B
 functional, A
 rule110_par, A
+rule110_fast, B

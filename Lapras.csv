@@ -5,3 +5,4 @@ rule110, A
 vector, A
 functional, B
 rule110_par, B
+rule110_fast, A
